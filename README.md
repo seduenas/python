@@ -1,4 +1,4 @@
 # Python1_UCR
-Tarea 3 \n
-Sebas Duena \n
+Tarea 3 
+Sebas Duena
 Jorge Jimenez
